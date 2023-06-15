@@ -97,7 +97,7 @@ main {
     color: #ffffff;
 }
 
-/* deleted the repetative code and created a generic name*/
+/* deleted the repetative code and created a generic name. Ensured all cascading code impacted by the changed name was updated as well.*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
