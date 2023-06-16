@@ -6,8 +6,10 @@ To solve Horiseons Diversity and Inclusion problem.
 
 - Why did you build this project? 
 To make Horiseons webpage accesible for all perspective clients regardless of physical limitations. 
+
 - What problem does it solve?
-To grant the ability for deaf and/or blind to ability to utilize Horiseons webpage and increase search engine traffic with the inclusive initiative.
+To grant the ability for deaf and/or blind to utilize Horiseons webpage and increase search engine traffic with the inclusive initiative.
+
 - What did you learn?
 I learned that there are a lot of finite details that can literally make or break your reputation when it comes to inclusivity of all. I also learned that finite details can make or break your code as well. 
 

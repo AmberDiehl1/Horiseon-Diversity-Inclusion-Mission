@@ -1,10 +1,10 @@
 * {
-    /*pseudocode notes here*/
+   
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*pseudocode notes here*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -35,7 +35,6 @@ header nav {
 }
 
 header nav ul {
-    /*pseudocode notes here*/
     list-style-type: none;
 }
 
